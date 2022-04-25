@@ -8,3 +8,6 @@
 - matplotlib
 - datetime
 - scipy
+
+## Статус проекта
+Проект закончен
